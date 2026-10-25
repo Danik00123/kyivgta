@@ -1,0 +1,1 @@
+{"name":"UKRAINE GTA","short_name":"UKRAINE GTA","start_url":"/uk/","display":"standalone","background_color":"#15151D","theme_color":"#15151D","icons":[{"src":"/images/favicon-48x48.png","sizes":"48x48","type":"image/png"},{"src":"/images/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]}
